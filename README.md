@@ -25,3 +25,13 @@ https://github.com/user-attachments/assets/80aae191-8aa4-4048-b319-8afd82a75260
 opdracht 8
 https://github.com/user-attachments/assets/a9348947-4e74-4d90-a8e3-84fe87702df1
 
+M6 -----------------------------------------------------------------------------
+
+Opdracht 1
+![m6op1](https://github.com/user-attachments/assets/eaf93e60-8fb2-4948-9f9d-0cd16905c1ec)
+
+opdracht 2
+
+
+
+
