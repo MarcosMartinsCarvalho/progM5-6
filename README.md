@@ -31,6 +31,9 @@ Opdracht 1
 ![m6op1](https://github.com/user-attachments/assets/eaf93e60-8fb2-4948-9f9d-0cd16905c1ec)
 
 opdracht 2
+https://github.com/MarcosMartinsCarvalho/progM5-6/blob/main/ClassDiagramTD.md
+
+
 
 
 
