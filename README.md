@@ -28,17 +28,32 @@ https://github.com/user-attachments/assets/a9348947-4e74-4d90-a8e3-84fe87702df1
 M6 -----------------------------------------------------------------------------
 
 Opdracht 1
+
 ![m6op1](https://github.com/user-attachments/assets/eaf93e60-8fb2-4948-9f9d-0cd16905c1ec)
 
 opdracht 2
+
 https://github.com/MarcosMartinsCarvalho/progM5-6/blob/main/ClassDiagramTD.md
 
 
 opdracht 3
+
 ![m6op3](https://github.com/user-attachments/assets/40ad62fd-9bb2-4026-bd32-8826107a4188)
 
 
 opdracht 4
+
+![m6op4](https://github.com/user-attachments/assets/27c93be4-e0e0-4630-b6a4-1d7f51ed9703)
+
+opdracht 5
+
+![m6op5](https://github.com/user-attachments/assets/dc202bcf-0525-4c1f-b5eb-6a239f0f8070)
+
+
+opdracht 6
+
+![m6op6](https://github.com/user-attachments/assets/f080fbf9-ab92-445c-b349-972240b08882)
+
 
 
 
