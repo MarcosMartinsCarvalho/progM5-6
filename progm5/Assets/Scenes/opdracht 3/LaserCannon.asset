@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 499d979253adacd4aab9abd96bc0376a, type: 3}
   m_Name: LaserCannon
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Laser cannon
   itemType: 0
   stats:
-    damage: 0
+    damage: 50
     defense: 0
-    weight: 0
-  basePrice: 0
+    weight: 50
+  basePrice: 30
   icon: {fileID: 0}

@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 499d979253adacd4aab9abd96bc0376a, type: 3}
   m_Name: SpaceHelm
   m_EditorClassIdentifier: 
-  itemName: 
-  itemType: 0
+  itemName: Space helm
+  itemType: 1
   stats:
     damage: 0
-    defense: 0
-    weight: 0
-  basePrice: 0
+    defense: 5
+    weight: 10
+  basePrice: 10
   icon: {fileID: 0}

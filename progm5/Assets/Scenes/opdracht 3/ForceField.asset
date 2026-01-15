@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 499d979253adacd4aab9abd96bc0376a, type: 3}
   m_Name: ForceField
   m_EditorClassIdentifier: 
-  itemName: 
-  itemType: 0
+  itemName: Force field
+  itemType: 1
   stats:
     damage: 0
-    defense: 0
-    weight: 0
-  basePrice: 0
+    defense: 50
+    weight: 100
+  basePrice: 20
   icon: {fileID: 0}
